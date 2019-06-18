@@ -13,4 +13,3 @@ def countdown_with_sleep(count)
   sleep(1)
   end
 end
-  
